@@ -8,5 +8,5 @@ torch
 scikit_image==0.17.2
 requests==2.25.1
 hsh==1.1.0
-Pillow==8.1.1
+Pillow==8.2.0
 ffmpeg-python
